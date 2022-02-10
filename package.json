@@ -37,7 +37,7 @@
     "express-fileupload": "^1.1.4",
     "jquery": "^3.4.1",
     "mongoose": "^5.5.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
